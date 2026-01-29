@@ -17,7 +17,8 @@ The project meets the requirements of **TP2**, showcasing:
 
 ## 📸 Screenshots
 The system consists of two separate GUIs communicating over the network:
-![Uploading Screenshot 2026-01-29 225605.png…]()
+
+<img width="1918" height="995" alt="Screenshot 2026-01-29 225605" src="https://github.com/user-attachments/assets/cc910903-5343-48da-abe2-c477117f7929" />
 
 
 
