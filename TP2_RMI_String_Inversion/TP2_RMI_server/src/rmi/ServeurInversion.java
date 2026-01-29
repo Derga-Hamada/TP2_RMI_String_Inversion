@@ -13,8 +13,9 @@ public class ServeurInversion extends UnicastRemoteObject implements ServiceInve
     @Override
     public String inverserChaine(String chaine) throws RemoteException {
         // هذا السطر سيظهر في واجهة الخادم لاحقاً
-        System.out.println(">> طلب وارد لعكس الجملة: " + chaine);
+        System.out.println(">> Request to reverse the sentence: " + chaine);
         if (chaine == null) return null;
         return new StringBuilder(chaine).reverse().toString();
     }
+
 }
